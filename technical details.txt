@@ -1,5 +1,0 @@
-How to run the program 
-The code is in MATLAB .
-First we have to open Mammography.flg and set the value of the intensity and the cancer size to got the picture of the cancer and the graph to it 
-Pleas do not change the name of Both files both file should have the same name . 
-I have attached screen shot to my result at my report .
